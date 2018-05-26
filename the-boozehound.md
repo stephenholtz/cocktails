@@ -5,10 +5,10 @@ A boozy but very drinkable cocktail after the ['Little Italy'](http://imbibemaga
 ![the-boozehound][the-boozehound]
 
 - 1 1/2 oz Bourbon (Four Roses)
-- 1 oz Sweet Vermouth
+- 3/4 oz Sweet Vermouth
 - 1/2 oz Nocino
 - 1/2 oz Aperol
-- 1/4 oz Lemon Juice (or less)
+- 10 drops(wedge squeeze) of Lemon Juice
 - 4-5 dashes Black Walnut Bitters
 
 Stir very well in ice and strain onto an ice globe with a lemon twist.
