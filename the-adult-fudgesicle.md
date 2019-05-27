@@ -1,7 +1,7 @@
 The Adult Fudgesicle
 ====================
 
-In spite of the awful name, this is a very nice summer (or winter) dessert cocktail. The ginger beer, egg, creme de cacao base works with a lot of other sipping liquors. Bourbon is the natural first choice, however.
+In spite of the awful name this is a very nice summer (or winter?) dessert cocktail. The ginger beer, egg, creme de cacao base works with a lot of other sipping liquors. Bourbon is the natural first choice, however.
 
 - 3 oz Flat Ginger Beer
 - 1 oz Creme de Cacao
