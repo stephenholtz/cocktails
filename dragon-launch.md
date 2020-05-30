@@ -11,7 +11,7 @@ This means in order there will be:
 - **yellow-white** propulsion burn (LOX RP-1),
 - **red-orange** phasing burns (hypergolic) x5
 
-Freeze two pucks of crushed 2x green flavorice tubeds mixed with a half ounce of lime cordial and half an ounce of absinthe.
+Freeze two pucks of crushed 2x green flavorice tubes mixed with a half ounce of lime cordial and half an ounce of absinthe.
 
 Place one puck at the bottom of a highball glass, cover with shaved ice.
 
