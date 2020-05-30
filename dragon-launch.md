@@ -11,11 +11,12 @@ This means in order there will be:
 - **yellow-white** propulsion burn (LOX RP-1),
 - **red-orange** phasing burns (hypergolic) x5
 
-Build up in a tall glass. Add each stage of liquor and cover with shaved ice. 
-- 3:1 (Lime Cordial):(White Rum)
-- 2:2:1 (Pineapple Juice):(White Rum):(Lemon Juice)
-- 3:1 (Lime Cordial):(White Rum)
-- 2:2:1 (Pineapple Juice):(White Rum):(Lemon Juice)
-- 1:1 (Aperol):(Orange Juice)
+Freeze two pucks of crushed 2x green flavorice tubeds mixed with a half ounce of lime cordial and half an ounce of absinthe.
 
-Serve with a long spoon, and model rocket. Give it a quick swirl before drinking. 
+Place one puck at the bottom of a highball glass, cover with shaved ice.
+
+Carefully pour pineapple juice over top of the shaved ice, top with the second green puck, and cover with shaved ice.
+
+Carefully pour 1:1 aperol:orange juice on top, and nestle a shot glass of rum in the ice.
+
+Serve with a long spoon, pour the rum in and give it a swirl before drinking.
