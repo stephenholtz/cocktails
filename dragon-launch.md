@@ -11,6 +11,11 @@ This means in order there will be:
 - **yellow-white** propulsion burn (LOX RP-1),
 - **red-orange** phasing burns (hypergolic) x5
 
+Build up in a tall glass. Add each stage of liquor and cover with shaved ice. 
+- 3:1 (Lime Cordial):(White Rum)
+- 2:2:1 (Pineapple Juice):(White Rum):(Lemon Juice)
+- 3:1 (Lime Cordial):(White Rum)
+- 2:2:1 (Pineapple Juice):(White Rum):(Lemon Juice)
+- 1:1 (Aperol:Orange Juice)
 
-
-
+Serve with a long spoon, and model rocket. Give it a quick swirl before drinking. 
