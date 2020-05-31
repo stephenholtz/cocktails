@@ -11,12 +11,10 @@ This means in order there will be:
 - **yellow-white** propulsion burn (LOX RP-1),
 - **red-orange** phasing burns (hypergolic) x5
 
-Freeze two pucks of crushed 2x green flavorice tubes mixed with a half ounce of lime cordial and half an ounce of absinthe.
+Since getting more than 2 layers is already challenging, we are going to make a simplified green->yellow/white->red/orange cocktail:
+- For the green, freeze a puck of crushed green flavorice mixed with a bit of green chartreuse (it tastes surprisingly good together). Once it is solid, pack it into the bottom of a highball glass.
+- For the yellow-white, pack shaved ice and pour in 4:1 pineapple juice:blanco tequila very carefully
+- To keep the next layer separate for a short while, squirt a layer of simple syrup on the packed ice from the yellow-white.
+- For the red-orange, carefully add more shaved ice and slowly carefully pour 1:1 aperol:orange juce
 
-Place one puck at the bottom of a highball glass, cover with shaved ice.
-
-Carefully pour pineapple juice over top of the shaved ice, top with the second green puck, and cover with shaved ice.
-
-Carefully pour 1:1 aperol:orange juice on top, and nestle a shot glass of rum in the ice.
-
-Serve with a long spoon, pour the rum in and give it a swirl before drinking.
+Serve with a long spoon, and give it a swirl before drinking.
