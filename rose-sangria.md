@@ -6,8 +6,8 @@ Rosé Sangria
 - 2 cups of equal parts:
   - Fresh blueberries, gently bruised
   - Fresh sliced strawberries
-  - Ripe peach or nectarine
-- 1/2 orange cut to match strawberry surface area
+  - Ripe peach or nectarine (cut to match strawberry slice size)
+- 1/2 orange (also cut to match strawberry slice size)
 - 3oz St. Germain liqueur
 - 1oz Contrieu
 - 1oz Bourbon
