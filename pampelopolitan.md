@@ -10,6 +10,6 @@ Pampelmousse + Cosmopolitan = Pampelopolitan. A bit of a smoother version of a c
 - 1/2 oz fresh-squeezed lime juice
 - 1/2 oz simple syrup
 
-Shake hard in ice, and double strain. Serve up if you're packin' coupes.
+Shake hard in ice and double strain. Serve up if you're packin' coupes.
 
 *TODO: add documentation for a clarified and carbonated version: pampelobubbliatan.*
