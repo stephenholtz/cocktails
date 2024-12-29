@@ -1,7 +1,7 @@
-pampelopolitan
+pampleopolitan
 ====
 
-Pampelmousse + Cosmopolitan = Pampelopolitan. A bit of a smoother version of a cosmopolitan with a more balanced citrus profile (aka: I just noticed thought the cosmo already tasted a bit like grapefruit).
+Pamplemousse + Cosmopolitan = Pampelopolitan. A bit of a smoother version of a cosmopolitan with a more balanced citrus profile (aka: I just noticed thought the cosmo already tasted a bit like grapefruit).
 
 - 1 1/2 oz vodka (good, non-citron)
 - 1 oz 100% cranberry juice (not cocktail)
