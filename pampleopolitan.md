@@ -12,4 +12,4 @@ Pamplemousse + Cosmopolitan = Pampelopolitan. A bit of a smoother version of a c
 
 Shake hard in ice and double strain. Serve up if you're packin' coupes.
 
-*TODO: add documentation for a clarified and carbonated version: pampelobubbliatan.*
+*TODO: add documentation for a clarified and carbonated version: pampleobubbliatan.*
